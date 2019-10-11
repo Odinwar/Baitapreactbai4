@@ -1,0 +1,25 @@
+h1.container {
+  color: white;
+  text-align: center;
+}
+.main1.container {
+  margin-left: 2.5em;
+}
+.context {
+  padding: 5em;
+  border: 2px solid rgb(134, 134, 134);
+  text-align: center;
+  background-color: rgb(80, 79, 79);
+
+  width: 18em;
+}
+p {
+  font-size: 5em;
+}
+.main {
+  border: 2px solid rgb(134, 134, 134);
+}
+img.imgg {
+  width: 6em;
+  height: 6em;
+}

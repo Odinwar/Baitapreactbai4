@@ -1,0 +1,12 @@
+.navbar-nav {
+  justify-content: center;
+  margin-left: 30%;
+}
+.nav-item {
+  margin-right: 2em;
+}
+.main {
+  width: 25em;
+  justify-content: center;
+  margin-left: 30%;
+}

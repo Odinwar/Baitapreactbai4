@@ -1,0 +1,20 @@
+progress {
+  width: 50%;
+  height: 10px;
+  color: #3fb6b2;
+  background: #efefef;
+}
+.main2 {
+  width: 50%;
+  color: white;
+}
+p {
+  word-wrap: break-word;
+  color: black;
+}
+.time {
+  margin-left: 1em;
+}
+.loi {
+  color: black;
+}
