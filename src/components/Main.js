@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Bai1 from "./Bai1/Bai1";
 import Bai2 from "./Bai2/Bai2";
 import Bai3 from "./Bai3/Bai3";
-
+import "./Main.css";
 class Main extends React.Component {
   constructor(props) {
     super(props);

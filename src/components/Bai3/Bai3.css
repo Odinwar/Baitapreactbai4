@@ -1,6 +1,50 @@
 .custom-select {
-  width: 10em;
+  width: 180px;
+  height: 35px;
+  font-size: 0.9em;
+  text-align: center;
 }
 .search {
   display: flex;
+}
+.bai3.title {
+  margin-left: 40%;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  width: 50%;
+}
+label {
+  margin: 1em;
+  margin-right: 1em;
+}
+.bai3.add,
+.search {
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: burlywood;
+}
+input {
+  width: 180px;
+  height: 35px;
+}
+button.bai3 {
+  margin-left: 2em;
+  margin-top: -0.5em;
+  background-color: blue;
+}
+
+.table {
+  width: 80%;
+  margin: 2em;
+  background-color: white;
+}
+.nen {
+  background-color: rgb(14, 201, 248);
+  width: 100%;
+  height: 500em;
+}
+.bai3.chinh {
+  background-color: wheat;
+  height: 40em;
+  width: 900px;
 }
